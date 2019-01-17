@@ -6,6 +6,11 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 @SpringBootApplication
+/**
+* @description 启动类  
+* @author shuai.xu
+* @time 2019/1/17 17:03
+*/
 public class Application extends SpringBootServletInitializer {
 
     public static void main(String[] args) {
