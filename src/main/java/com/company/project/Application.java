@@ -9,7 +9,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 /**
 * @description 启动类  
 * @author shuai.xu
-* @time 2019/1/17 17:03
+* @time 2019/1/17 17:04
 */
 public class Application extends SpringBootServletInitializer {
 
